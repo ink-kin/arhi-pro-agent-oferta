@@ -65,7 +65,10 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
-    ]
+      { icon: 'github', link: 'https://github.com/ink-kin/arhi-pro-agent-oferta.git' }
+    ],
+    sitemap: {
+    hostname: 'https://example.com'
+  }
   }
 })

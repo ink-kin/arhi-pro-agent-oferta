@@ -1,0 +1,1 @@
+import{_ as l,c as i,o as p,ae as a}from"./chunks/framework.Dgg8-8ov.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"agreement.md","filePath":"agreement.md"}'),t={name:"agreement.md"};function o(r,e,n,_,s,c){return p(),i("div",null,e[0]||(e[0]=[a("",2)]))}const f=l(t,[["render",o]]);export{m as __pageData,f as default};
