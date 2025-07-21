@@ -1,1 +1,0 @@
-import{_ as i,c as e,o as a,ae as t}from"./chunks/framework.Dgg8-8ov.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"period.md","filePath":"period.md"}'),p={name:"period.md"};function o(r,l,_,n,s,d){return a(),e("div",null,l[0]||(l[0]=[t("",2)]))}const m=i(p,[["render",o]]);export{u as __pageData,m as default};
